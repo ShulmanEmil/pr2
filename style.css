@@ -110,6 +110,12 @@ p{
 @media screen and (max-width: 900px){
 	.contanier{
 		flex-direction: column;
-			height: auto;
-	}
+		height: auto;
+}
+}
+@media screen and (max-width: 900px){
+    .app{
+        width: auto;
+        height: auto;
+    }
 }
